@@ -115,9 +115,9 @@ int main(int argc, char **argv) {
   // hack for MSSMtt2017
   if(categories == "MSSMtt"){
     cats["tt"] = {
-        { 8, "tt_nobtag"},
-        { 9, "tt_btag"},
-	// { 7, "tt_inclusive"},
+        //{ 8, "tt_nobtag"},
+        //{ 9, "tt_btag"},
+	 { 7, "tt_inclusive"},
     };
   }
   else if(categories == "gof"){
