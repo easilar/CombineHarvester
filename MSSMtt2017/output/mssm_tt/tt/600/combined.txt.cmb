@@ -93,5 +93,6 @@ ff_tt_syst_             shape                                     -             
 ff_w_frac_syst_         shape                                     -              -              -              1.0            -              -              -            
 ff_w_syst_              shape                                     -              -              -              1.0            -              -              -            
 lumi_                   lnN                                       1.023          1.023          1.023          -              -              1.023          1.023        
+sigcons_                lnN                                       1.11           1.1            -              -              -              -              -            
 sigdummy_               lnN                                       1.1            1.1            -              -              -              -              -            
 top_pT_reweighting_     shape                                     -              -              -              -              -              -              1.0          
